@@ -217,6 +217,26 @@ Exemplo de produtos que não deram certo:
 ![image](https://user-images.githubusercontent.com/52088444/232049375-29646379-6503-4716-ab61-6394a15f75be.png)
 ![image](https://user-images.githubusercontent.com/52088444/232049503-e077c9dd-9ab0-4c14-9228-94a6440f96ec.png)
 
+## Referencias
+
+- Confiança Criativa - Libere Sua Criatividade e Implemente Suas Ideias - Kelle, David  Kelley, Tom 
+
+- O Dia do Curinga - Gaarder, Jostein
+
+Sites:
+
+- https://www.ideo.com
+
+- https://www.ideo.org
+
+- https://www.edx.org/course?search_query=design+thinking
+
+- http://www.3minovacao.com.br
+
+- http://inei.org.br/links
+
+- http://www.ted.com/search?q=design+thinking
+
 
 
 
