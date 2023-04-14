@@ -12,7 +12,7 @@ Design Thinking surgiu em 1973, IDEO - referencia em Design Thinking
 
 Inovação é fazer algo novo que modifique aquilo que já exista.
 
-Quem determina p que é inovador é o cliente.
+Quem determina o que é inovador é o cliente.
 
 Precisa ser algo:
 
@@ -20,5 +20,14 @@ Precisa ser algo:
 - Financeiramente Viável
 - Técnicamente viável
 
+![image](https://user-images.githubusercontent.com/52088444/232024780-027075c8-4f83-4e3a-a0cd-c6d9bcc67933.png)
 
+## Valores fundamentais Design Thinking
 
+4. Quais são os valores fundamentais do Design Thinking
+
+5. Como o engenheiro resolveu o problema usando a empatia
+
+6. Valor da colaboração
+
+7. Valor da experimentação
